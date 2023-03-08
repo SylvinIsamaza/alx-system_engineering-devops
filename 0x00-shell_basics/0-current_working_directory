@@ -1,3 +1,2 @@
-#! /bin/bash
-echo 'the working directory is:'
+#!/bin/bash
 pwd
