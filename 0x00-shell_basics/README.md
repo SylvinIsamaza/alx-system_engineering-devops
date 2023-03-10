@@ -1,2 +1,2 @@
-this is basic of hash in alx
+HEY WELCOME TO ALX
 
